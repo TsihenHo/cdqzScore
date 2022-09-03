@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">成都七中成绩查询</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_quey_step_one">QueyStepOneActivity</string>
+    <string name="title_activity_query_step_two">QueryStepTwoActivity</string>
+    <string name="title_activity_query_step_three">QueryStepThreeActivity</string>
+    <string name="title_activity_query_step_four">QueryStepFourActivity</string>
+    <string name="title_activity_question_answer">QuestionAnswerActivity</string>
+</resources>
